@@ -2,6 +2,8 @@
 
 A simple Discord bot that displays the total player count from Social-Link.net API. The bot updates its status every 10 seconds, alternating between showing the current player count and your website URL, while minimizing API calls.
 
+![Example](https://i.imgur.com/Qq1LAAb.png)
+
 ## Features
 
 - Fetches player count from Social-Link.net API every 3 minutes
